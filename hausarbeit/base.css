@@ -1,10 +1,10 @@
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure, 
 footer, header, hgroup, menu, nav, section {
-	display: block;
+  display: block;
 }
 body {
-	line-height: 1;
+  line-height: 1;
 }
 html {
   box-sizing: border-box;
@@ -21,13 +21,14 @@ html {
   height: 0px;
 }
 
-.col-12 {
-  display: block;
-}
-.col-6,
-.col-4,
-.col-3 {
+[class^="col-"] {
   float: left;
+  display: block;
+  padding: 10px;
+}
+
+.col-12 {
+  float: none;
   display: block;
 }
 .col-6 {
