@@ -5,12 +5,14 @@
 
 ## Vorarbeit
 
-Entwerfe die HTML Struktur einer Webseite auf einem Blatt Papier. 
+Entwurf der HTML Struktur einer Webseite auf einem Blatt Papier. 
 ![Vorlage](./vorlage.png "Vorlage")
 
 ## Hausarbeit
-Programmiere und gestalte die entworfene Webseite 
+Programmierung und Gestaltung der entworfenen Webseite 
 
+## Abgabe
+Zip-Datei mit dem Inhalt des Ordners "hausarbeit" im moodle ablegen.
 
 ## Resourcen
 
