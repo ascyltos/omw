@@ -8,11 +8,11 @@
 Entwurf der HTML Struktur einer Webseite auf einem Blatt Papier. 
 ![Vorlage](./vorlage.png "Vorlage")
 
-## Hausarbeit
+## Projektarbeit
 Programmierung und Gestaltung der entworfenen Webseite 
 
 ## Abgabe
-Zip-Datei mit dem Inhalt des Ordners "hausarbeit" im moodle ablegen.
+Zip-Datei mit dem Inhalt des Ordners "projektarbeit" im moodle ablegen.
 
 ## Resourcen
 
